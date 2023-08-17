@@ -62,3 +62,9 @@ A class representing a search engine for image retrieval using feature extractio
 - Calculates the average distance between the matches and converts it into a similarity score.
 - Returns the similarity score.
 
+  ## Export
+**In this notebook, "the waste-classification-data" dataset at the following address is used to execute the code. We have searched for the photo of strawberry in it, and Class "O" returned with the found photo.**
+[DataSet](https://www.kaggle.com/datasets/techsash/waste-classification-data)
+
+  ![Sample Image](https://s6.uupload.ir/files/screenshot_from_2023-08-17_21-57-48_gzch.png)
+
